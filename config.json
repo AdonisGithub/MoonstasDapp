@@ -5,11 +5,11 @@
     "solTreasuryAccount": "98SmSfXkAsXXBuZipkMFSKBPeFp94y9sxaRJGuwbt7NP",
     "splTokenAccount": null,
     "splToken": null,
-    "goLiveDate": "05 May 2022 00:00:00 GMT",
+    "goLiveDate": "10 May 2022 00:00:00 GMT",
     "endSettings": null,
     "whitelistMintSettings": {
         "mode" : {"burnEveryTime": true },
-        "mint" : "HBSP5JgHFCeMYpkD5X2wRFCgw46EKKxAnUMp78vu8h5W",
+        "mint" : "92b9A7om7DpNZSayFgiTe8rztqGJf2rhtvc1sjEdxMhy",
         "presale" : true,
         "discountPrice" : 0.3
     },
@@ -17,9 +17,9 @@
     "storage": "pinata",
     "ipfsInfuraProjectId": null,
     "ipfsInfuraSecret": null,
-    "pinataJwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiI3NDhlNTc0MC1lMDcxLTQ0ZmEtYjU2ZS03ZjRmMWRhMWYwNTIiLCJlbWFpbCI6ImRhbmlpbDk3d29ya0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwicGluX3BvbGljeSI6eyJyZWdpb25zIjpbeyJpZCI6IkZSQTEiLCJkZXNpcmVkUmVwbGljYXRpb25Db3VudCI6MX1dLCJ2ZXJzaW9uIjoxfSwibWZhX2VuYWJsZWQiOmZhbHNlfSwiYXV0aGVudGljYXRpb25UeXBlIjoic2NvcGVkS2V5Iiwic2NvcGVkS2V5S2V5IjoiYThlMDFkMzQ3NmUyYjk3MzU3MjAiLCJzY29wZWRLZXlTZWNyZXQiOiI1OTk1NTM5NzU4ZmEyZDVjNDEzMDBhZjhlZjg2NjhlOGNlYzEyZTJiN2E1YTYwNjk2OTU5ODU0ZTI5YWNhZDQzIiwiaWF0IjoxNjUxNzg3Mzk2fQ.M2W-xSyqTEl3Uf-6MhBTELHYQZORCp3JUNwA2uDDDEw",
+    "pinataJwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiJmZTBmMjk2ZC1kN2RlLTQ3ODktYTRjOS1iYjFlYjg4YmY0M2IiLCJlbWFpbCI6ImdvbGRlbmRvcmVzOTgyNkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwicGluX3BvbGljeSI6eyJyZWdpb25zIjpbeyJpZCI6Ik5ZQzEiLCJkZXNpcmVkUmVwbGljYXRpb25Db3VudCI6MX1dLCJ2ZXJzaW9uIjoxfSwibWZhX2VuYWJsZWQiOmZhbHNlfSwiYXV0aGVudGljYXRpb25UeXBlIjoic2NvcGVkS2V5Iiwic2NvcGVkS2V5S2V5IjoiMGRmNTE3MzAyN2YwN2FjMTFkNzkiLCJzY29wZWRLZXlTZWNyZXQiOiJlNzBmYmFkNjRkMGMxNDhhODhmMmFhMjE4N2Q5Y2I5ODE4YTc3YmQ0MjUxNmQzZmNmZmRjMDU0OTQyZjY0NWRlIiwiaWF0IjoxNjUyMTg5OTkxfQ.hw1LNDZNc_Zq_Iu6skfILZsaDzQ_H_l996vwP4ddLoc",
     "pinataGateway": "https://gateway.pinata.cloud",
     "awsS3Bucket": null,
     "noRetainAuthority": false,
     "noMutable": false
-    }
+}

@@ -1,1 +1,1 @@
-ts-node ~/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts upload -e devnet -k ~/.config/solana/devnet.json -cp F:\Work(Blockchain)\Candy_machine_NFT_mint/config.json -c example F:\Work(Blockchain)\Candy_machine_NFT_mint\assets
+ts-node ~/metaplex/js/packages/cli/src/candy-machine-v2-cli.ts upload -e devnet -k ~/.config/solana/devnet.json -cp F:\Work(Blockchain)\Moonstas_NFTmint\Candy_machine_v2\config.json -c example F:\Work(Blockchain)\Moonstas_NFTmint\Candy_machine_v2\assets
