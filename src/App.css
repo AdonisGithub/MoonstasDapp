@@ -277,6 +277,7 @@ header {
   background-repeat: no-repeat;
   background-color: rgb(11 13 23);
   display: flex;
+  background-size: cover;
   min-height: 100vh;
   justify-content: center;
   align-items: center;

@@ -99,8 +99,8 @@ export const whitelistSettings: WhitelistSettings = {
   //If you want to use the whitelist feature enable it.
   enabled: true,
 
-  startDate: date("5 May 2022 00:00:00 GMT"),
-  endDate: date("15 May 2022 00:00:00 GMT"),
+  startDate: date("10 May 2022 00:00:00 GMT"),
+  endDate: date("12 May 2022 00:00:00 GMT"),
   countdown: true,
   //Example date below
   // date('29 2021 00:00:00 GMT')
@@ -138,7 +138,7 @@ export class MintWhitelistCustomHTML extends React.Component {
 export const publicSaleSettings: PublicSaleSettings = {
   //start date and end date must match your Candy Machine Config for public launch!
 
-  startDate: date("15 May 2022 00:00:00 GMT"),
+  startDate: date("12 May 2022 00:00:00 GMT"),
   endDate: undefined,
   countdown: false,
   //Example date below

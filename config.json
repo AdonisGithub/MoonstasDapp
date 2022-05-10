@@ -11,7 +11,7 @@
         "mode" : {"burnEveryTime": true },
         "mint" : "92b9A7om7DpNZSayFgiTe8rztqGJf2rhtvc1sjEdxMhy",
         "presale" : true,
-        "discountPrice" : 0.3
+        "discountPrice" : 0.1
     },
     "hiddenSettings": null,
     "storage": "pinata",
